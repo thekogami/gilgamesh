@@ -2,9 +2,10 @@ import socket
 import ipaddress
 import struct
 import logging
+import random
 
 def create_dns_query(domain):
-    transaction_id = 0xaaaa
+    transaction_id = random.randint(0, 65535)
     flags = 0x0100
     questions = 1
     answer_rrs = 0
