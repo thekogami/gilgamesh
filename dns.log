@@ -4678,3 +4678,1207 @@
 2024-09-11 03:06:00,665 - ERROR - No response from DNS server
 2024-09-11 03:06:01,729 - INFO - Process interrupted by user.
 2024-09-11 03:06:01,774 - INFO - Program terminated.
+2024-09-27 01:15:31,057 - INFO - Received response from DNS server: 12 bytes in 0.1409 seconds
+2024-09-27 01:15:31,057 - INFO - Received response from DNS server: 39 bytes in 0.1408 seconds
+2024-09-27 01:15:31,057 - INFO - Received response from DNS server: 30 bytes in 0.1411 seconds
+2024-09-27 01:15:31,059 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:31,059 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:31,059 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:31,063 - INFO - Received response from DNS server: 30 bytes in 0.1462 seconds
+2024-09-27 01:15:31,063 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:31,305 - INFO - Received response from DNS server: 30 bytes in 0.1403 seconds
+2024-09-27 01:15:31,305 - INFO - Received response from DNS server: 12 bytes in 0.1407 seconds
+2024-09-27 01:15:31,306 - INFO - Received response from DNS server: 30 bytes in 0.1408 seconds
+2024-09-27 01:15:31,306 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:31,307 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:31,307 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:31,314 - INFO - Received response from DNS server: 39 bytes in 0.1494 seconds
+2024-09-27 01:15:31,314 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:31,548 - INFO - Received response from DNS server: 30 bytes in 0.1394 seconds
+2024-09-27 01:15:31,549 - INFO - Received response from DNS server: 12 bytes in 0.1363 seconds
+2024-09-27 01:15:31,549 - INFO - Received response from DNS server: 30 bytes in 0.1363 seconds
+2024-09-27 01:15:31,549 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:31,550 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:31,550 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:31,569 - INFO - Received response from DNS server: 39 bytes in 0.1492 seconds
+2024-09-27 01:15:31,569 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:31,798 - INFO - Received response from DNS server: 12 bytes in 0.1462 seconds
+2024-09-27 01:15:31,799 - INFO - Received response from DNS server: 30 bytes in 0.1462 seconds
+2024-09-27 01:15:31,799 - INFO - Received response from DNS server: 30 bytes in 0.1447 seconds
+2024-09-27 01:15:31,799 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:31,799 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:31,799 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:31,821 - INFO - Received response from DNS server: 39 bytes in 0.1459 seconds
+2024-09-27 01:15:31,821 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:32,042 - INFO - Received response from DNS server: 12 bytes in 0.1397 seconds
+2024-09-27 01:15:32,043 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:32,047 - INFO - Received response from DNS server: 30 bytes in 0.1427 seconds
+2024-09-27 01:15:32,047 - INFO - Received response from DNS server: 30 bytes in 0.1446 seconds
+2024-09-27 01:15:32,047 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:32,047 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:32,073 - INFO - Received response from DNS server: 39 bytes in 0.1482 seconds
+2024-09-27 01:15:32,073 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:32,288 - INFO - Received response from DNS server: 12 bytes in 0.1402 seconds
+2024-09-27 01:15:32,288 - INFO - Received response from DNS server: 30 bytes in 0.1397 seconds
+2024-09-27 01:15:32,288 - INFO - Received response from DNS server: 30 bytes in 0.1382 seconds
+2024-09-27 01:15:32,289 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:32,289 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:32,289 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:32,324 - INFO - Received response from DNS server: 39 bytes in 0.1456 seconds
+2024-09-27 01:15:32,325 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:32,535 - INFO - Received response from DNS server: 30 bytes in 0.1416 seconds
+2024-09-27 01:15:32,536 - INFO - Received response from DNS server: 12 bytes in 0.1411 seconds
+2024-09-27 01:15:32,536 - INFO - Received response from DNS server: 30 bytes in 0.1415 seconds
+2024-09-27 01:15:32,536 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:32,537 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:32,537 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:32,578 - INFO - Received response from DNS server: 39 bytes in 0.1491 seconds
+2024-09-27 01:15:32,578 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:32,783 - INFO - Received response from DNS server: 12 bytes in 0.1422 seconds
+2024-09-27 01:15:32,783 - INFO - Received response from DNS server: 30 bytes in 0.1412 seconds
+2024-09-27 01:15:32,783 - INFO - Received response from DNS server: 30 bytes in 0.1440 seconds
+2024-09-27 01:15:32,784 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:32,784 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:32,784 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:32,829 - INFO - Received response from DNS server: 39 bytes in 0.1491 seconds
+2024-09-27 01:15:32,830 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:32,918 - ERROR - No response from DNS server
+2024-09-27 01:15:33,032 - INFO - Received response from DNS server: 30 bytes in 0.1429 seconds
+2024-09-27 01:15:33,032 - INFO - Received response from DNS server: 30 bytes in 0.1425 seconds
+2024-09-27 01:15:33,033 - INFO - Received response from DNS server: 12 bytes in 0.1426 seconds
+2024-09-27 01:15:33,033 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:33,033 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:33,033 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:33,084 - INFO - Received response from DNS server: 39 bytes in 0.1490 seconds
+2024-09-27 01:15:33,084 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:33,274 - INFO - Received response from DNS server: 30 bytes in 0.1404 seconds
+2024-09-27 01:15:33,274 - INFO - Received response from DNS server: 12 bytes in 0.1361 seconds
+2024-09-27 01:15:33,275 - INFO - Received response from DNS server: 30 bytes in 0.1405 seconds
+2024-09-27 01:15:33,276 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:33,276 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:33,277 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:33,338 - INFO - Received response from DNS server: 39 bytes in 0.1475 seconds
+2024-09-27 01:15:33,338 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:33,521 - INFO - Received response from DNS server: 30 bytes in 0.1397 seconds
+2024-09-27 01:15:33,522 - INFO - Received response from DNS server: 12 bytes in 0.1398 seconds
+2024-09-27 01:15:33,522 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:33,522 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:33,528 - INFO - Received response from DNS server: 30 bytes in 0.1457 seconds
+2024-09-27 01:15:33,528 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:33,589 - INFO - Received response from DNS server: 39 bytes in 0.1479 seconds
+2024-09-27 01:15:33,590 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:33,765 - INFO - Received response from DNS server: 12 bytes in 0.1402 seconds
+2024-09-27 01:15:33,765 - INFO - Received response from DNS server: 30 bytes in 0.1398 seconds
+2024-09-27 01:15:33,766 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:33,766 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:33,771 - INFO - Received response from DNS server: 30 bytes in 0.1384 seconds
+2024-09-27 01:15:33,771 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:33,843 - INFO - Received response from DNS server: 39 bytes in 0.1480 seconds
+2024-09-27 01:15:33,844 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:34,009 - INFO - Received response from DNS server: 12 bytes in 0.1395 seconds
+2024-09-27 01:15:34,009 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:34,013 - INFO - Received response from DNS server: 30 bytes in 0.1445 seconds
+2024-09-27 01:15:34,014 - INFO - Received response from DNS server: 30 bytes in 0.1376 seconds
+2024-09-27 01:15:34,014 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:34,014 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:34,095 - INFO - Received response from DNS server: 39 bytes in 0.1459 seconds
+2024-09-27 01:15:34,096 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:34,253 - INFO - Received response from DNS server: 12 bytes in 0.1400 seconds
+2024-09-27 01:15:34,253 - INFO - Received response from DNS server: 30 bytes in 0.1376 seconds
+2024-09-27 01:15:34,253 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:34,253 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:34,258 - INFO - Received response from DNS server: 30 bytes in 0.1425 seconds
+2024-09-27 01:15:34,258 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:34,345 - INFO - Received response from DNS server: 39 bytes in 0.1474 seconds
+2024-09-27 01:15:34,345 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:34,497 - INFO - Received response from DNS server: 30 bytes in 0.1412 seconds
+2024-09-27 01:15:34,497 - INFO - Received response from DNS server: 12 bytes in 0.1397 seconds
+2024-09-27 01:15:34,497 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:34,497 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:34,501 - INFO - Received response from DNS server: 30 bytes in 0.1397 seconds
+2024-09-27 01:15:34,502 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:34,598 - INFO - Received response from DNS server: 39 bytes in 0.1466 seconds
+2024-09-27 01:15:34,598 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:34,745 - INFO - Received response from DNS server: 12 bytes in 0.1465 seconds
+2024-09-27 01:15:34,745 - INFO - Received response from DNS server: 30 bytes in 0.1461 seconds
+2024-09-27 01:15:34,745 - INFO - Received response from DNS server: 30 bytes in 0.1415 seconds
+2024-09-27 01:15:34,746 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:34,746 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:34,746 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:34,849 - INFO - Received response from DNS server: 39 bytes in 0.1458 seconds
+2024-09-27 01:15:34,850 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:34,988 - INFO - Received response from DNS server: 12 bytes in 0.1414 seconds
+2024-09-27 01:15:34,989 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:34,993 - INFO - Received response from DNS server: 30 bytes in 0.1425 seconds
+2024-09-27 01:15:34,993 - INFO - Received response from DNS server: 30 bytes in 0.1426 seconds
+2024-09-27 01:15:34,993 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:34,993 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:35,100 - INFO - Received response from DNS server: 39 bytes in 0.1452 seconds
+2024-09-27 01:15:35,101 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:35,235 - INFO - Received response from DNS server: 12 bytes in 0.1406 seconds
+2024-09-27 01:15:35,235 - INFO - Received response from DNS server: 30 bytes in 0.1393 seconds
+2024-09-27 01:15:35,235 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:35,236 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:35,240 - INFO - Received response from DNS server: 30 bytes in 0.1443 seconds
+2024-09-27 01:15:35,240 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:35,354 - INFO - Received response from DNS server: 39 bytes in 0.1479 seconds
+2024-09-27 01:15:35,355 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:35,483 - INFO - Received response from DNS server: 12 bytes in 0.1417 seconds
+2024-09-27 01:15:35,483 - INFO - Received response from DNS server: 30 bytes in 0.1419 seconds
+2024-09-27 01:15:35,484 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:35,484 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:35,487 - INFO - Received response from DNS server: 30 bytes in 0.1461 seconds
+2024-09-27 01:15:35,488 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:35,605 - INFO - Received response from DNS server: 39 bytes in 0.1451 seconds
+2024-09-27 01:15:35,606 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:35,731 - INFO - Received response from DNS server: 30 bytes in 0.1416 seconds
+2024-09-27 01:15:35,731 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:35,732 - INFO - Received response from DNS server: 12 bytes in 0.1424 seconds
+2024-09-27 01:15:35,732 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:35,735 - INFO - Received response from DNS server: 30 bytes in 0.1456 seconds
+2024-09-27 01:15:35,736 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:35,856 - INFO - Received response from DNS server: 39 bytes in 0.1447 seconds
+2024-09-27 01:15:35,856 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:35,979 - INFO - Received response from DNS server: 30 bytes in 0.1416 seconds
+2024-09-27 01:15:35,979 - INFO - Received response from DNS server: 12 bytes in 0.1405 seconds
+2024-09-27 01:15:35,979 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:35,979 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:35,984 - INFO - Received response from DNS server: 30 bytes in 0.1456 seconds
+2024-09-27 01:15:35,984 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:36,029 - ERROR - No response from DNS server
+2024-09-27 01:15:36,102 - INFO - Received response from DNS server: 39 bytes in 0.1452 seconds
+2024-09-27 01:15:36,102 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:36,224 - INFO - Received response from DNS server: 30 bytes in 0.1426 seconds
+2024-09-27 01:15:36,224 - INFO - Received response from DNS server: 12 bytes in 0.1393 seconds
+2024-09-27 01:15:36,224 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:36,225 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:36,228 - INFO - Received response from DNS server: 30 bytes in 0.1386 seconds
+2024-09-27 01:15:36,228 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:36,354 - INFO - Received response from DNS server: 39 bytes in 0.1485 seconds
+2024-09-27 01:15:36,355 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:36,470 - INFO - Received response from DNS server: 12 bytes in 0.1398 seconds
+2024-09-27 01:15:36,470 - INFO - Received response from DNS server: 30 bytes in 0.1399 seconds
+2024-09-27 01:15:36,471 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:36,471 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:36,476 - INFO - Received response from DNS server: 30 bytes in 0.1422 seconds
+2024-09-27 01:15:36,476 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:36,608 - INFO - Received response from DNS server: 39 bytes in 0.1490 seconds
+2024-09-27 01:15:36,608 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:36,714 - INFO - Received response from DNS server: 30 bytes in 0.1404 seconds
+2024-09-27 01:15:36,715 - INFO - Received response from DNS server: 12 bytes in 0.1391 seconds
+2024-09-27 01:15:36,715 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:36,715 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:36,719 - INFO - Received response from DNS server: 30 bytes in 0.1417 seconds
+2024-09-27 01:15:36,720 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:36,858 - INFO - Received response from DNS server: 39 bytes in 0.1446 seconds
+2024-09-27 01:15:36,858 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:36,962 - INFO - Received response from DNS server: 12 bytes in 0.1412 seconds
+2024-09-27 01:15:36,963 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:36,967 - INFO - Received response from DNS server: 30 bytes in 0.1462 seconds
+2024-09-27 01:15:36,967 - INFO - Received response from DNS server: 30 bytes in 0.1462 seconds
+2024-09-27 01:15:36,968 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:36,968 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:37,116 - INFO - Received response from DNS server: 39 bytes in 0.1526 seconds
+2024-09-27 01:15:37,116 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:37,205 - INFO - Received response from DNS server: 12 bytes in 0.1408 seconds
+2024-09-27 01:15:37,205 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:37,215 - INFO - Received response from DNS server: 30 bytes in 0.1405 seconds
+2024-09-27 01:15:37,216 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:37,221 - INFO - Received response from DNS server: 30 bytes in 0.1468 seconds
+2024-09-27 01:15:37,222 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:37,368 - INFO - Received response from DNS server: 39 bytes in 0.1508 seconds
+2024-09-27 01:15:37,369 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:37,450 - INFO - Received response from DNS server: 12 bytes in 0.1400 seconds
+2024-09-27 01:15:37,451 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:37,458 - INFO - Received response from DNS server: 30 bytes in 0.1392 seconds
+2024-09-27 01:15:37,458 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:37,465 - INFO - Received response from DNS server: 30 bytes in 0.1406 seconds
+2024-09-27 01:15:37,466 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:37,618 - INFO - Received response from DNS server: 39 bytes in 0.1483 seconds
+2024-09-27 01:15:37,619 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:37,695 - INFO - Received response from DNS server: 12 bytes in 0.1400 seconds
+2024-09-27 01:15:37,695 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:37,703 - INFO - Received response from DNS server: 30 bytes in 0.1394 seconds
+2024-09-27 01:15:37,703 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:37,710 - INFO - Received response from DNS server: 30 bytes in 0.1423 seconds
+2024-09-27 01:15:37,710 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:37,868 - INFO - Received response from DNS server: 39 bytes in 0.1461 seconds
+2024-09-27 01:15:37,869 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:37,939 - INFO - Received response from DNS server: 12 bytes in 0.1410 seconds
+2024-09-27 01:15:37,939 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:37,947 - INFO - Received response from DNS server: 30 bytes in 0.1403 seconds
+2024-09-27 01:15:37,948 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:37,953 - INFO - Received response from DNS server: 30 bytes in 0.1395 seconds
+2024-09-27 01:15:37,954 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:38,118 - INFO - Received response from DNS server: 39 bytes in 0.1435 seconds
+2024-09-27 01:15:38,119 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:38,179 - INFO - Received response from DNS server: 12 bytes in 0.1391 seconds
+2024-09-27 01:15:38,180 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:38,191 - INFO - Received response from DNS server: 30 bytes in 0.1394 seconds
+2024-09-27 01:15:38,191 - INFO - Received response from DNS server: 30 bytes in 0.1357 seconds
+2024-09-27 01:15:38,192 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:38,192 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:38,368 - INFO - Received response from DNS server: 39 bytes in 0.1462 seconds
+2024-09-27 01:15:38,369 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:38,423 - INFO - Received response from DNS server: 12 bytes in 0.1406 seconds
+2024-09-27 01:15:38,424 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:38,438 - INFO - Received response from DNS server: 30 bytes in 0.1407 seconds
+2024-09-27 01:15:38,438 - INFO - Received response from DNS server: 30 bytes in 0.1406 seconds
+2024-09-27 01:15:38,439 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:38,439 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:38,618 - INFO - Received response from DNS server: 39 bytes in 0.1440 seconds
+2024-09-27 01:15:38,619 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:38,665 - INFO - Received response from DNS server: 12 bytes in 0.1385 seconds
+2024-09-27 01:15:38,666 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:38,683 - INFO - Received response from DNS server: 30 bytes in 0.1388 seconds
+2024-09-27 01:15:38,684 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:38,690 - INFO - Received response from DNS server: 30 bytes in 0.1448 seconds
+2024-09-27 01:15:38,691 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:38,871 - INFO - Received response from DNS server: 39 bytes in 0.1479 seconds
+2024-09-27 01:15:38,871 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:38,911 - INFO - Received response from DNS server: 12 bytes in 0.1396 seconds
+2024-09-27 01:15:38,911 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:38,928 - INFO - Received response from DNS server: 30 bytes in 0.1393 seconds
+2024-09-27 01:15:38,928 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:38,941 - INFO - Received response from DNS server: 30 bytes in 0.1466 seconds
+2024-09-27 01:15:38,942 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:39,122 - INFO - Received response from DNS server: 39 bytes in 0.1449 seconds
+2024-09-27 01:15:39,122 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:39,137 - ERROR - No response from DNS server
+2024-09-27 01:15:39,158 - INFO - Received response from DNS server: 12 bytes in 0.1407 seconds
+2024-09-27 01:15:39,158 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:39,169 - INFO - Received response from DNS server: 30 bytes in 0.1393 seconds
+2024-09-27 01:15:39,170 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:39,188 - INFO - Received response from DNS server: 30 bytes in 0.1403 seconds
+2024-09-27 01:15:39,188 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:39,373 - INFO - Received response from DNS server: 39 bytes in 0.1483 seconds
+2024-09-27 01:15:39,374 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:39,404 - INFO - Received response from DNS server: 12 bytes in 0.1398 seconds
+2024-09-27 01:15:39,404 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:39,413 - INFO - Received response from DNS server: 30 bytes in 0.1376 seconds
+2024-09-27 01:15:39,414 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:39,432 - INFO - Received response from DNS server: 30 bytes in 0.1400 seconds
+2024-09-27 01:15:39,432 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:39,622 - INFO - Received response from DNS server: 39 bytes in 0.1434 seconds
+2024-09-27 01:15:39,622 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:39,649 - INFO - Received response from DNS server: 12 bytes in 0.1396 seconds
+2024-09-27 01:15:39,649 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:39,657 - INFO - Received response from DNS server: 30 bytes in 0.1395 seconds
+2024-09-27 01:15:39,657 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:39,678 - INFO - Received response from DNS server: 30 bytes in 0.1404 seconds
+2024-09-27 01:15:39,678 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:39,871 - INFO - Received response from DNS server: 39 bytes in 0.1439 seconds
+2024-09-27 01:15:39,871 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:39,893 - INFO - Received response from DNS server: 12 bytes in 0.1384 seconds
+2024-09-27 01:15:39,894 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:39,901 - INFO - Received response from DNS server: 30 bytes in 0.1408 seconds
+2024-09-27 01:15:39,901 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:39,925 - INFO - Received response from DNS server: 30 bytes in 0.1411 seconds
+2024-09-27 01:15:39,925 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:40,121 - INFO - Received response from DNS server: 39 bytes in 0.1469 seconds
+2024-09-27 01:15:40,122 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:40,139 - INFO - Received response from DNS server: 12 bytes in 0.1401 seconds
+2024-09-27 01:15:40,140 - INFO - Received response from DNS server: 30 bytes in 0.1357 seconds
+2024-09-27 01:15:40,140 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:40,140 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:40,170 - INFO - Received response from DNS server: 30 bytes in 0.1402 seconds
+2024-09-27 01:15:40,171 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:40,369 - INFO - Received response from DNS server: 39 bytes in 0.1445 seconds
+2024-09-27 01:15:40,370 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:40,381 - INFO - Received response from DNS server: 12 bytes in 0.1397 seconds
+2024-09-27 01:15:40,381 - INFO - Received response from DNS server: 30 bytes in 0.1399 seconds
+2024-09-27 01:15:40,382 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:40,382 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:40,416 - INFO - Received response from DNS server: 30 bytes in 0.1407 seconds
+2024-09-27 01:15:40,416 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:40,621 - INFO - Received response from DNS server: 12 bytes in 0.1376 seconds
+2024-09-27 01:15:40,621 - INFO - Received response from DNS server: 39 bytes in 0.1461 seconds
+2024-09-27 01:15:40,622 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:40,622 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:40,627 - INFO - Received response from DNS server: 30 bytes in 0.1434 seconds
+2024-09-27 01:15:40,627 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:40,662 - INFO - Received response from DNS server: 30 bytes in 0.1409 seconds
+2024-09-27 01:15:40,663 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:40,863 - INFO - Received response from DNS server: 12 bytes in 0.1386 seconds
+2024-09-27 01:15:40,864 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:40,869 - INFO - Received response from DNS server: 30 bytes in 0.1412 seconds
+2024-09-27 01:15:40,869 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:40,878 - INFO - Received response from DNS server: 39 bytes in 0.1500 seconds
+2024-09-27 01:15:40,878 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:40,904 - INFO - Received response from DNS server: 30 bytes in 0.1397 seconds
+2024-09-27 01:15:40,904 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:41,110 - INFO - Received response from DNS server: 12 bytes in 0.1402 seconds
+2024-09-27 01:15:41,110 - INFO - Received response from DNS server: 30 bytes in 0.1391 seconds
+2024-09-27 01:15:41,110 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:41,110 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:41,125 - INFO - Received response from DNS server: 39 bytes in 0.1434 seconds
+2024-09-27 01:15:41,125 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:41,149 - INFO - Received response from DNS server: 30 bytes in 0.1394 seconds
+2024-09-27 01:15:41,149 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:41,353 - INFO - Received response from DNS server: 30 bytes in 0.1411 seconds
+2024-09-27 01:15:41,353 - INFO - Received response from DNS server: 12 bytes in 0.1415 seconds
+2024-09-27 01:15:41,354 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:41,354 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:41,375 - INFO - Received response from DNS server: 39 bytes in 0.1443 seconds
+2024-09-27 01:15:41,375 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:41,393 - INFO - Received response from DNS server: 30 bytes in 0.1414 seconds
+2024-09-27 01:15:41,393 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:41,595 - INFO - Received response from DNS server: 12 bytes in 0.1401 seconds
+2024-09-27 01:15:41,596 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:41,602 - INFO - Received response from DNS server: 30 bytes in 0.1458 seconds
+2024-09-27 01:15:41,602 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:41,624 - INFO - Received response from DNS server: 39 bytes in 0.1439 seconds
+2024-09-27 01:15:41,625 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:41,638 - INFO - Received response from DNS server: 30 bytes in 0.1394 seconds
+2024-09-27 01:15:41,639 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:41,835 - INFO - Received response from DNS server: 12 bytes in 0.1384 seconds
+2024-09-27 01:15:41,836 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:41,845 - INFO - Received response from DNS server: 30 bytes in 0.1394 seconds
+2024-09-27 01:15:41,845 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:41,878 - INFO - Received response from DNS server: 39 bytes in 0.1483 seconds
+2024-09-27 01:15:41,879 - INFO - Received response from DNS server: 30 bytes in 0.1337 seconds
+2024-09-27 01:15:41,879 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:41,880 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:42,079 - INFO - Received response from DNS server: 12 bytes in 0.1377 seconds
+2024-09-27 01:15:42,080 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:42,087 - INFO - Received response from DNS server: 30 bytes in 0.1385 seconds
+2024-09-27 01:15:42,087 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:42,126 - INFO - Received response from DNS server: 30 bytes in 0.1413 seconds
+2024-09-27 01:15:42,126 - INFO - Received response from DNS server: 39 bytes in 0.1424 seconds
+2024-09-27 01:15:42,126 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:42,126 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:42,243 - ERROR - No response from DNS server
+2024-09-27 01:15:42,327 - INFO - Received response from DNS server: 12 bytes in 0.1418 seconds
+2024-09-27 01:15:42,327 - INFO - Received response from DNS server: 30 bytes in 0.1365 seconds
+2024-09-27 01:15:42,328 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:42,328 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:42,376 - INFO - Received response from DNS server: 30 bytes in 0.1475 seconds
+2024-09-27 01:15:42,376 - INFO - Received response from DNS server: 39 bytes in 0.1481 seconds
+2024-09-27 01:15:42,376 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:42,376 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:42,573 - INFO - Received response from DNS server: 12 bytes in 0.1398 seconds
+2024-09-27 01:15:42,574 - INFO - Received response from DNS server: 30 bytes in 0.1398 seconds
+2024-09-27 01:15:42,574 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:42,574 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:42,620 - INFO - Received response from DNS server: 30 bytes in 0.1401 seconds
+2024-09-27 01:15:42,621 - INFO - Received response from DNS server: 39 bytes in 0.1423 seconds
+2024-09-27 01:15:42,622 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:42,622 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:42,820 - INFO - Received response from DNS server: 12 bytes in 0.1404 seconds
+2024-09-27 01:15:42,821 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:42,826 - INFO - Received response from DNS server: 30 bytes in 0.1459 seconds
+2024-09-27 01:15:42,826 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:42,869 - INFO - Received response from DNS server: 30 bytes in 0.1414 seconds
+2024-09-27 01:15:42,870 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:42,884 - INFO - Received response from DNS server: 39 bytes in 0.1562 seconds
+2024-09-27 01:15:42,884 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:43,065 - INFO - Received response from DNS server: 12 bytes in 0.1404 seconds
+2024-09-27 01:15:43,066 - INFO - Received response from DNS server: 30 bytes in 0.1332 seconds
+2024-09-27 01:15:43,066 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:43,066 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:43,114 - INFO - Received response from DNS server: 30 bytes in 0.1396 seconds
+2024-09-27 01:15:43,114 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:43,134 - INFO - Received response from DNS server: 39 bytes in 0.1478 seconds
+2024-09-27 01:15:43,134 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:43,313 - INFO - Received response from DNS server: 12 bytes in 0.1411 seconds
+2024-09-27 01:15:43,313 - INFO - Received response from DNS server: 30 bytes in 0.1411 seconds
+2024-09-27 01:15:43,313 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:43,313 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:43,361 - INFO - Received response from DNS server: 30 bytes in 0.1413 seconds
+2024-09-27 01:15:43,362 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:43,384 - INFO - Received response from DNS server: 39 bytes in 0.1448 seconds
+2024-09-27 01:15:43,384 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:43,558 - INFO - Received response from DNS server: 12 bytes in 0.1387 seconds
+2024-09-27 01:15:43,558 - INFO - Received response from DNS server: 30 bytes in 0.1388 seconds
+2024-09-27 01:15:43,558 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:43,559 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:43,609 - INFO - Received response from DNS server: 30 bytes in 0.1411 seconds
+2024-09-27 01:15:43,609 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:43,630 - INFO - Received response from DNS server: 39 bytes in 0.1444 seconds
+2024-09-27 01:15:43,631 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:43,800 - INFO - Received response from DNS server: 30 bytes in 0.1408 seconds
+2024-09-27 01:15:43,801 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:43,806 - INFO - Received response from DNS server: 12 bytes in 0.1417 seconds
+2024-09-27 01:15:43,806 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:43,850 - INFO - Received response from DNS server: 30 bytes in 0.1392 seconds
+2024-09-27 01:15:43,851 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:43,881 - INFO - Received response from DNS server: 39 bytes in 0.1455 seconds
+2024-09-27 01:15:43,882 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:44,047 - INFO - Received response from DNS server: 30 bytes in 0.1411 seconds
+2024-09-27 01:15:44,048 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:44,053 - INFO - Received response from DNS server: 12 bytes in 0.1463 seconds
+2024-09-27 01:15:44,054 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:44,092 - INFO - Received response from DNS server: 30 bytes in 0.1404 seconds
+2024-09-27 01:15:44,093 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:44,135 - INFO - Received response from DNS server: 39 bytes in 0.1472 seconds
+2024-09-27 01:15:44,135 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:44,291 - INFO - Received response from DNS server: 30 bytes in 0.1405 seconds
+2024-09-27 01:15:44,291 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:44,297 - INFO - Received response from DNS server: 12 bytes in 0.1381 seconds
+2024-09-27 01:15:44,297 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:44,339 - INFO - Received response from DNS server: 30 bytes in 0.1408 seconds
+2024-09-27 01:15:44,340 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:44,387 - INFO - Received response from DNS server: 39 bytes in 0.1465 seconds
+2024-09-27 01:15:44,388 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:44,535 - INFO - Received response from DNS server: 30 bytes in 0.1427 seconds
+2024-09-27 01:15:44,535 - INFO - Received response from DNS server: 12 bytes in 0.1347 seconds
+2024-09-27 01:15:44,535 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:44,535 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:44,587 - INFO - Received response from DNS server: 30 bytes in 0.1415 seconds
+2024-09-27 01:15:44,587 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:44,639 - INFO - Received response from DNS server: 39 bytes in 0.1457 seconds
+2024-09-27 01:15:44,640 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:44,779 - INFO - Received response from DNS server: 12 bytes in 0.1395 seconds
+2024-09-27 01:15:44,779 - INFO - Received response from DNS server: 30 bytes in 0.1391 seconds
+2024-09-27 01:15:44,780 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:44,779 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:44,834 - INFO - Received response from DNS server: 30 bytes in 0.1419 seconds
+2024-09-27 01:15:44,835 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:44,892 - INFO - Received response from DNS server: 39 bytes in 0.1469 seconds
+2024-09-27 01:15:44,893 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:45,025 - INFO - Received response from DNS server: 12 bytes in 0.1419 seconds
+2024-09-27 01:15:45,025 - INFO - Received response from DNS server: 30 bytes in 0.1411 seconds
+2024-09-27 01:15:45,025 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:45,025 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:45,079 - INFO - Received response from DNS server: 30 bytes in 0.1405 seconds
+2024-09-27 01:15:45,080 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:45,144 - INFO - Received response from DNS server: 39 bytes in 0.1453 seconds
+2024-09-27 01:15:45,145 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:45,272 - INFO - Received response from DNS server: 12 bytes in 0.1412 seconds
+2024-09-27 01:15:45,273 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:45,277 - INFO - Received response from DNS server: 30 bytes in 0.1462 seconds
+2024-09-27 01:15:45,278 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:45,327 - INFO - Received response from DNS server: 30 bytes in 0.1416 seconds
+2024-09-27 01:15:45,328 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:45,348 - ERROR - No response from DNS server
+2024-09-27 01:15:45,395 - INFO - Received response from DNS server: 39 bytes in 0.1459 seconds
+2024-09-27 01:15:45,396 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:45,519 - INFO - Received response from DNS server: 12 bytes in 0.1414 seconds
+2024-09-27 01:15:45,519 - INFO - Received response from DNS server: 30 bytes in 0.1361 seconds
+2024-09-27 01:15:45,519 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:45,519 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:45,573 - INFO - Received response from DNS server: 30 bytes in 0.1398 seconds
+2024-09-27 01:15:45,573 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:45,641 - INFO - Received response from DNS server: 39 bytes in 0.1446 seconds
+2024-09-27 01:15:45,642 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:45,764 - INFO - Received response from DNS server: 30 bytes in 0.1392 seconds
+2024-09-27 01:15:45,765 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:45,771 - INFO - Received response from DNS server: 12 bytes in 0.1461 seconds
+2024-09-27 01:15:45,772 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:45,819 - INFO - Received response from DNS server: 30 bytes in 0.1404 seconds
+2024-09-27 01:15:45,820 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:45,893 - INFO - Received response from DNS server: 39 bytes in 0.1465 seconds
+2024-09-27 01:15:45,894 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:46,008 - INFO - Received response from DNS server: 30 bytes in 0.1397 seconds
+2024-09-27 01:15:46,008 - INFO - Received response from DNS server: 12 bytes in 0.1359 seconds
+2024-09-27 01:15:46,009 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:46,009 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:46,063 - INFO - Received response from DNS server: 30 bytes in 0.1424 seconds
+2024-09-27 01:15:46,063 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:46,145 - INFO - Received response from DNS server: 39 bytes in 0.1461 seconds
+2024-09-27 01:15:46,145 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:46,254 - INFO - Received response from DNS server: 12 bytes in 0.1395 seconds
+2024-09-27 01:15:46,254 - INFO - Received response from DNS server: 30 bytes in 0.1396 seconds
+2024-09-27 01:15:46,254 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:46,254 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:46,310 - INFO - Received response from DNS server: 30 bytes in 0.1411 seconds
+2024-09-27 01:15:46,310 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:46,395 - INFO - Received response from DNS server: 39 bytes in 0.1457 seconds
+2024-09-27 01:15:46,396 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:46,500 - INFO - Received response from DNS server: 12 bytes in 0.1402 seconds
+2024-09-27 01:15:46,500 - INFO - Received response from DNS server: 30 bytes in 0.1404 seconds
+2024-09-27 01:15:46,500 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:46,501 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:46,553 - INFO - Received response from DNS server: 30 bytes in 0.1402 seconds
+2024-09-27 01:15:46,553 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:46,649 - INFO - Received response from DNS server: 39 bytes in 0.1491 seconds
+2024-09-27 01:15:46,649 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:46,747 - INFO - Received response from DNS server: 30 bytes in 0.1417 seconds
+2024-09-27 01:15:46,747 - INFO - Received response from DNS server: 12 bytes in 0.1412 seconds
+2024-09-27 01:15:46,747 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:46,747 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:46,795 - INFO - Received response from DNS server: 30 bytes in 0.1413 seconds
+2024-09-27 01:15:46,796 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:46,901 - INFO - Received response from DNS server: 39 bytes in 0.1500 seconds
+2024-09-27 01:15:46,901 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:46,995 - INFO - Received response from DNS server: 30 bytes in 0.1424 seconds
+2024-09-27 01:15:46,996 - INFO - Received response from DNS server: 12 bytes in 0.1424 seconds
+2024-09-27 01:15:46,996 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:46,996 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:47,037 - INFO - Received response from DNS server: 30 bytes in 0.1412 seconds
+2024-09-27 01:15:47,038 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:47,155 - INFO - Received response from DNS server: 39 bytes in 0.1512 seconds
+2024-09-27 01:15:47,155 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:47,239 - INFO - Received response from DNS server: 12 bytes in 0.1410 seconds
+2024-09-27 01:15:47,240 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:47,243 - INFO - Received response from DNS server: 30 bytes in 0.1448 seconds
+2024-09-27 01:15:47,245 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:47,283 - INFO - Received response from DNS server: 30 bytes in 0.1412 seconds
+2024-09-27 01:15:47,284 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:47,408 - INFO - Received response from DNS server: 39 bytes in 0.1481 seconds
+2024-09-27 01:15:47,409 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:47,487 - INFO - Received response from DNS server: 12 bytes in 0.1450 seconds
+2024-09-27 01:15:47,488 - INFO - Received response from DNS server: 30 bytes in 0.1387 seconds
+2024-09-27 01:15:47,488 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:47,488 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:47,529 - INFO - Received response from DNS server: 30 bytes in 0.1412 seconds
+2024-09-27 01:15:47,529 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:47,662 - INFO - Received response from DNS server: 39 bytes in 0.1478 seconds
+2024-09-27 01:15:47,663 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:47,731 - INFO - Received response from DNS server: 30 bytes in 0.1420 seconds
+2024-09-27 01:15:47,731 - INFO - Received response from DNS server: 12 bytes in 0.1420 seconds
+2024-09-27 01:15:47,731 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:47,731 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:47,775 - INFO - Received response from DNS server: 30 bytes in 0.1407 seconds
+2024-09-27 01:15:47,776 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:47,916 - INFO - Received response from DNS server: 39 bytes in 0.1481 seconds
+2024-09-27 01:15:47,917 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:47,975 - INFO - Received response from DNS server: 30 bytes in 0.1413 seconds
+2024-09-27 01:15:47,975 - INFO - Received response from DNS server: 12 bytes in 0.1396 seconds
+2024-09-27 01:15:47,975 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:47,976 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:48,021 - INFO - Received response from DNS server: 30 bytes in 0.1407 seconds
+2024-09-27 01:15:48,022 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:48,167 - INFO - Received response from DNS server: 39 bytes in 0.1458 seconds
+2024-09-27 01:15:48,168 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:48,221 - INFO - Received response from DNS server: 12 bytes in 0.1393 seconds
+2024-09-27 01:15:48,221 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:48,227 - INFO - Received response from DNS server: 30 bytes in 0.1458 seconds
+2024-09-27 01:15:48,228 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:48,269 - INFO - Received response from DNS server: 30 bytes in 0.1421 seconds
+2024-09-27 01:15:48,270 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:48,426 - INFO - Received response from DNS server: 39 bytes in 0.1527 seconds
+2024-09-27 01:15:48,427 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:48,456 - ERROR - No response from DNS server
+2024-09-27 01:15:48,467 - INFO - Received response from DNS server: 12 bytes in 0.1401 seconds
+2024-09-27 01:15:48,467 - INFO - Received response from DNS server: 30 bytes in 0.1336 seconds
+2024-09-27 01:15:48,468 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:48,468 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:48,515 - INFO - Received response from DNS server: 30 bytes in 0.1401 seconds
+2024-09-27 01:15:48,515 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:48,678 - INFO - Received response from DNS server: 39 bytes in 0.1453 seconds
+2024-09-27 01:15:48,678 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:48,715 - INFO - Received response from DNS server: 12 bytes in 0.1410 seconds
+2024-09-27 01:15:48,715 - INFO - Received response from DNS server: 30 bytes in 0.1414 seconds
+2024-09-27 01:15:48,715 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:48,715 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:48,755 - INFO - Received response from DNS server: 30 bytes in 0.1366 seconds
+2024-09-27 01:15:48,756 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:48,925 - INFO - Received response from DNS server: 39 bytes in 0.1442 seconds
+2024-09-27 01:15:48,926 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:48,962 - INFO - Received response from DNS server: 30 bytes in 0.1412 seconds
+2024-09-27 01:15:48,962 - INFO - Received response from DNS server: 12 bytes in 0.1412 seconds
+2024-09-27 01:15:48,963 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:48,963 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:48,999 - INFO - Received response from DNS server: 30 bytes in 0.1407 seconds
+2024-09-27 01:15:48,999 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:49,173 - INFO - Received response from DNS server: 39 bytes in 0.1446 seconds
+2024-09-27 01:15:49,173 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:49,204 - INFO - Received response from DNS server: 30 bytes in 0.1391 seconds
+2024-09-27 01:15:49,204 - INFO - Received response from DNS server: 12 bytes in 0.1359 seconds
+2024-09-27 01:15:49,204 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:49,204 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:49,243 - INFO - Received response from DNS server: 30 bytes in 0.1425 seconds
+2024-09-27 01:15:49,243 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:49,420 - INFO - Received response from DNS server: 39 bytes in 0.1455 seconds
+2024-09-27 01:15:49,421 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:49,449 - INFO - Received response from DNS server: 30 bytes in 0.1406 seconds
+2024-09-27 01:15:49,449 - INFO - Received response from DNS server: 12 bytes in 0.1398 seconds
+2024-09-27 01:15:49,449 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:49,449 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:49,489 - INFO - Received response from DNS server: 30 bytes in 0.1409 seconds
+2024-09-27 01:15:49,490 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:49,671 - INFO - Received response from DNS server: 39 bytes in 0.1443 seconds
+2024-09-27 01:15:49,671 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:49,693 - INFO - Received response from DNS server: 12 bytes in 0.1389 seconds
+2024-09-27 01:15:49,693 - INFO - Received response from DNS server: 30 bytes in 0.1387 seconds
+2024-09-27 01:15:49,694 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:49,694 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:49,735 - INFO - Received response from DNS server: 30 bytes in 0.1403 seconds
+2024-09-27 01:15:49,736 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:49,919 - INFO - Received response from DNS server: 39 bytes in 0.1443 seconds
+2024-09-27 01:15:49,919 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:49,935 - INFO - Received response from DNS server: 30 bytes in 0.1399 seconds
+2024-09-27 01:15:49,935 - INFO - Received response from DNS server: 12 bytes in 0.1361 seconds
+2024-09-27 01:15:49,936 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:49,936 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:49,976 - INFO - Received response from DNS server: 30 bytes in 0.1390 seconds
+2024-09-27 01:15:49,976 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:50,173 - INFO - Received response from DNS server: 39 bytes in 0.1480 seconds
+2024-09-27 01:15:50,174 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:50,181 - INFO - Received response from DNS server: 12 bytes in 0.1393 seconds
+2024-09-27 01:15:50,181 - INFO - Received response from DNS server: 30 bytes in 0.1392 seconds
+2024-09-27 01:15:50,181 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:50,181 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:50,220 - INFO - Received response from DNS server: 30 bytes in 0.1394 seconds
+2024-09-27 01:15:50,221 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:50,422 - INFO - Received response from DNS server: 39 bytes in 0.1459 seconds
+2024-09-27 01:15:50,423 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:50,423 - INFO - Received response from DNS server: 12 bytes in 0.1374 seconds
+2024-09-27 01:15:50,424 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:50,424 - INFO - Received response from DNS server: 30 bytes in 0.1394 seconds
+2024-09-27 01:15:50,425 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:50,468 - INFO - Received response from DNS server: 30 bytes in 0.1414 seconds
+2024-09-27 01:15:50,468 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:50,666 - INFO - Received response from DNS server: 12 bytes in 0.1388 seconds
+2024-09-27 01:15:50,666 - INFO - Received response from DNS server: 30 bytes in 0.1387 seconds
+2024-09-27 01:15:50,666 - INFO - Received response from DNS server: 39 bytes in 0.1412 seconds
+2024-09-27 01:15:50,667 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:50,667 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:50,667 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:50,714 - INFO - Received response from DNS server: 30 bytes in 0.1396 seconds
+2024-09-27 01:15:50,714 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:50,908 - INFO - Received response from DNS server: 12 bytes in 0.1404 seconds
+2024-09-27 01:15:50,908 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:50,913 - INFO - Received response from DNS server: 30 bytes in 0.1451 seconds
+2024-09-27 01:15:50,913 - INFO - Received response from DNS server: 39 bytes in 0.1452 seconds
+2024-09-27 01:15:50,913 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:50,914 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:50,959 - INFO - Received response from DNS server: 30 bytes in 0.1407 seconds
+2024-09-27 01:15:50,959 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:51,155 - INFO - Received response from DNS server: 12 bytes in 0.1419 seconds
+2024-09-27 01:15:51,156 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:51,163 - INFO - Received response from DNS server: 39 bytes in 0.1443 seconds
+2024-09-27 01:15:51,164 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:51,164 - INFO - Received response from DNS server: 30 bytes in 0.1444 seconds
+2024-09-27 01:15:51,164 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:51,207 - INFO - Received response from DNS server: 30 bytes in 0.1422 seconds
+2024-09-27 01:15:51,208 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:51,401 - INFO - Received response from DNS server: 12 bytes in 0.1396 seconds
+2024-09-27 01:15:51,402 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:51,413 - INFO - Received response from DNS server: 30 bytes in 0.1440 seconds
+2024-09-27 01:15:51,414 - INFO - Received response from DNS server: 39 bytes in 0.1445 seconds
+2024-09-27 01:15:51,414 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:51,414 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:51,450 - INFO - Received response from DNS server: 30 bytes in 0.1407 seconds
+2024-09-27 01:15:51,450 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:51,565 - ERROR - No response from DNS server
+2024-09-27 01:15:51,647 - INFO - Received response from DNS server: 12 bytes in 0.1401 seconds
+2024-09-27 01:15:51,648 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:51,659 - INFO - Received response from DNS server: 30 bytes in 0.1410 seconds
+2024-09-27 01:15:51,659 - INFO - Received response from DNS server: 39 bytes in 0.1450 seconds
+2024-09-27 01:15:51,660 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:51,660 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:51,692 - INFO - Received response from DNS server: 30 bytes in 0.1399 seconds
+2024-09-27 01:15:51,692 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:51,892 - INFO - Received response from DNS server: 12 bytes in 0.1396 seconds
+2024-09-27 01:15:51,892 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:51,903 - INFO - Received response from DNS server: 30 bytes in 0.1398 seconds
+2024-09-27 01:15:51,904 - INFO - Received response from DNS server: 39 bytes in 0.1405 seconds
+2024-09-27 01:15:51,904 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:51,905 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:51,936 - INFO - Received response from DNS server: 30 bytes in 0.1404 seconds
+2024-09-27 01:15:51,936 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:52,136 - INFO - Received response from DNS server: 12 bytes in 0.1405 seconds
+2024-09-27 01:15:52,137 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:52,149 - INFO - Received response from DNS server: 30 bytes in 0.1395 seconds
+2024-09-27 01:15:52,150 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:52,163 - INFO - Received response from DNS server: 39 bytes in 0.1535 seconds
+2024-09-27 01:15:52,165 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:52,186 - INFO - Received response from DNS server: 30 bytes in 0.1448 seconds
+2024-09-27 01:15:52,187 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:52,376 - INFO - Received response from DNS server: 12 bytes in 0.1385 seconds
+2024-09-27 01:15:52,377 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:52,394 - INFO - Received response from DNS server: 30 bytes in 0.1394 seconds
+2024-09-27 01:15:52,394 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:52,415 - INFO - Received response from DNS server: 39 bytes in 0.1470 seconds
+2024-09-27 01:15:52,415 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:52,435 - INFO - Received response from DNS server: 30 bytes in 0.1427 seconds
+2024-09-27 01:15:52,435 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:52,623 - INFO - Received response from DNS server: 12 bytes in 0.1408 seconds
+2024-09-27 01:15:52,624 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:52,636 - INFO - Received response from DNS server: 30 bytes in 0.1405 seconds
+2024-09-27 01:15:52,637 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:52,664 - INFO - Received response from DNS server: 39 bytes in 0.1436 seconds
+2024-09-27 01:15:52,664 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:52,676 - INFO - Received response from DNS server: 30 bytes in 0.1404 seconds
+2024-09-27 01:15:52,676 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:52,868 - INFO - Received response from DNS server: 12 bytes in 0.1396 seconds
+2024-09-27 01:15:52,869 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:52,881 - INFO - Received response from DNS server: 30 bytes in 0.1386 seconds
+2024-09-27 01:15:52,881 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:52,917 - INFO - Received response from DNS server: 39 bytes in 0.1463 seconds
+2024-09-27 01:15:52,917 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:52,927 - INFO - Received response from DNS server: 30 bytes in 0.1458 seconds
+2024-09-27 01:15:52,928 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:53,114 - INFO - Received response from DNS server: 12 bytes in 0.1415 seconds
+2024-09-27 01:15:53,115 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:53,127 - INFO - Received response from DNS server: 30 bytes in 0.1404 seconds
+2024-09-27 01:15:53,128 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:53,170 - INFO - Received response from DNS server: 39 bytes in 0.1481 seconds
+2024-09-27 01:15:53,171 - INFO - Received response from DNS server: 30 bytes in 0.1407 seconds
+2024-09-27 01:15:53,171 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:53,171 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:53,359 - INFO - Received response from DNS server: 12 bytes in 0.1387 seconds
+2024-09-27 01:15:53,360 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:53,371 - INFO - Received response from DNS server: 30 bytes in 0.1385 seconds
+2024-09-27 01:15:53,372 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:53,416 - INFO - Received response from DNS server: 39 bytes in 0.1440 seconds
+2024-09-27 01:15:53,417 - INFO - Received response from DNS server: 30 bytes in 0.1417 seconds
+2024-09-27 01:15:53,417 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:53,417 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:53,605 - INFO - Received response from DNS server: 12 bytes in 0.1395 seconds
+2024-09-27 01:15:53,605 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:53,614 - INFO - Received response from DNS server: 30 bytes in 0.1386 seconds
+2024-09-27 01:15:53,615 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:53,663 - INFO - Received response from DNS server: 30 bytes in 0.1411 seconds
+2024-09-27 01:15:53,663 - INFO - Received response from DNS server: 39 bytes in 0.1413 seconds
+2024-09-27 01:15:53,663 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:53,663 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:53,851 - INFO - Received response from DNS server: 12 bytes in 0.1400 seconds
+2024-09-27 01:15:53,851 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:53,859 - INFO - Received response from DNS server: 30 bytes in 0.1388 seconds
+2024-09-27 01:15:53,859 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:53,909 - INFO - Received response from DNS server: 30 bytes in 0.1400 seconds
+2024-09-27 01:15:53,909 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:53,918 - INFO - Received response from DNS server: 39 bytes in 0.1491 seconds
+2024-09-27 01:15:53,918 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:54,093 - INFO - Received response from DNS server: 12 bytes in 0.1394 seconds
+2024-09-27 01:15:54,093 - INFO - Received response from DNS server: 30 bytes in 0.1331 seconds
+2024-09-27 01:15:54,094 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:54,094 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:54,153 - INFO - Received response from DNS server: 30 bytes in 0.1391 seconds
+2024-09-27 01:15:54,154 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:54,167 - INFO - Received response from DNS server: 39 bytes in 0.1469 seconds
+2024-09-27 01:15:54,167 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:54,337 - INFO - Received response from DNS server: 30 bytes in 0.1386 seconds
+2024-09-27 01:15:54,337 - INFO - Received response from DNS server: 12 bytes in 0.1376 seconds
+2024-09-27 01:15:54,338 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:54,338 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:54,398 - INFO - Received response from DNS server: 30 bytes in 0.1408 seconds
+2024-09-27 01:15:54,399 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:54,419 - INFO - Received response from DNS server: 39 bytes in 0.1463 seconds
+2024-09-27 01:15:54,420 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:54,583 - INFO - Received response from DNS server: 12 bytes in 0.1397 seconds
+2024-09-27 01:15:54,584 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:54,588 - INFO - Received response from DNS server: 30 bytes in 0.1428 seconds
+2024-09-27 01:15:54,589 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:54,644 - INFO - Received response from DNS server: 30 bytes in 0.1411 seconds
+2024-09-27 01:15:54,644 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:54,667 - INFO - Received response from DNS server: 39 bytes in 0.1444 seconds
+2024-09-27 01:15:54,667 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:54,677 - ERROR - No response from DNS server
+2024-09-27 01:15:54,826 - INFO - Received response from DNS server: 12 bytes in 0.1407 seconds
+2024-09-27 01:15:54,826 - INFO - Received response from DNS server: 30 bytes in 0.1340 seconds
+2024-09-27 01:15:54,827 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:54,827 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:54,888 - INFO - Received response from DNS server: 30 bytes in 0.1388 seconds
+2024-09-27 01:15:54,888 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:54,920 - INFO - Received response from DNS server: 39 bytes in 0.1488 seconds
+2024-09-27 01:15:54,920 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:55,066 - INFO - Received response from DNS server: 12 bytes in 0.1372 seconds
+2024-09-27 01:15:55,066 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:55,072 - INFO - Received response from DNS server: 30 bytes in 0.1428 seconds
+2024-09-27 01:15:55,072 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:55,136 - INFO - Received response from DNS server: 30 bytes in 0.1416 seconds
+2024-09-27 01:15:55,136 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:55,169 - INFO - Received response from DNS server: 39 bytes in 0.1435 seconds
+2024-09-27 01:15:55,170 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:55,316 - INFO - Received response from DNS server: 12 bytes in 0.1444 seconds
+2024-09-27 01:15:55,317 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:55,321 - INFO - Received response from DNS server: 30 bytes in 0.1443 seconds
+2024-09-27 01:15:55,321 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:55,383 - INFO - Received response from DNS server: 30 bytes in 0.1417 seconds
+2024-09-27 01:15:55,383 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:55,421 - INFO - Received response from DNS server: 39 bytes in 0.1457 seconds
+2024-09-27 01:15:55,421 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:55,562 - INFO - Received response from DNS server: 12 bytes in 0.1429 seconds
+2024-09-27 01:15:55,562 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:55,569 - INFO - Received response from DNS server: 30 bytes in 0.1424 seconds
+2024-09-27 01:15:55,569 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:55,629 - INFO - Received response from DNS server: 30 bytes in 0.1402 seconds
+2024-09-27 01:15:55,629 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:55,674 - INFO - Received response from DNS server: 39 bytes in 0.1477 seconds
+2024-09-27 01:15:55,674 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:55,808 - INFO - Received response from DNS server: 12 bytes in 0.1404 seconds
+2024-09-27 01:15:55,808 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:55,819 - INFO - Received response from DNS server: 30 bytes in 0.1450 seconds
+2024-09-27 01:15:55,819 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:55,873 - INFO - Received response from DNS server: 30 bytes in 0.1411 seconds
+2024-09-27 01:15:55,873 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:55,929 - INFO - Received response from DNS server: 39 bytes in 0.1496 seconds
+2024-09-27 01:15:55,929 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:56,050 - INFO - Received response from DNS server: 12 bytes in 0.1394 seconds
+2024-09-27 01:15:56,050 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:56,063 - INFO - Received response from DNS server: 30 bytes in 0.1391 seconds
+2024-09-27 01:15:56,063 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:56,117 - INFO - Received response from DNS server: 30 bytes in 0.1399 seconds
+2024-09-27 01:15:56,117 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:56,180 - INFO - Received response from DNS server: 39 bytes in 0.1455 seconds
+2024-09-27 01:15:56,180 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:56,292 - INFO - Received response from DNS server: 12 bytes in 0.1408 seconds
+2024-09-27 01:15:56,293 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:56,307 - INFO - Received response from DNS server: 30 bytes in 0.1388 seconds
+2024-09-27 01:15:56,307 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:56,362 - INFO - Received response from DNS server: 30 bytes in 0.1427 seconds
+2024-09-27 01:15:56,362 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:56,431 - INFO - Received response from DNS server: 39 bytes in 0.1456 seconds
+2024-09-27 01:15:56,431 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:56,534 - INFO - Received response from DNS server: 12 bytes in 0.1414 seconds
+2024-09-27 01:15:56,535 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:56,551 - INFO - Received response from DNS server: 30 bytes in 0.1386 seconds
+2024-09-27 01:15:56,551 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:56,609 - INFO - Received response from DNS server: 30 bytes in 0.1416 seconds
+2024-09-27 01:15:56,610 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:56,679 - INFO - Received response from DNS server: 39 bytes in 0.1444 seconds
+2024-09-27 01:15:56,679 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:56,781 - INFO - Received response from DNS server: 12 bytes in 0.1407 seconds
+2024-09-27 01:15:56,781 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:56,795 - INFO - Received response from DNS server: 30 bytes in 0.1390 seconds
+2024-09-27 01:15:56,795 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:56,855 - INFO - Received response from DNS server: 30 bytes in 0.1404 seconds
+2024-09-27 01:15:56,856 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:56,932 - INFO - Received response from DNS server: 39 bytes in 0.1475 seconds
+2024-09-27 01:15:56,932 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:57,026 - INFO - Received response from DNS server: 12 bytes in 0.1401 seconds
+2024-09-27 01:15:57,027 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:57,039 - INFO - Received response from DNS server: 30 bytes in 0.1384 seconds
+2024-09-27 01:15:57,039 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:57,098 - INFO - Received response from DNS server: 30 bytes in 0.1413 seconds
+2024-09-27 01:15:57,099 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:57,184 - INFO - Received response from DNS server: 39 bytes in 0.1463 seconds
+2024-09-27 01:15:57,184 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:57,270 - INFO - Received response from DNS server: 12 bytes in 0.1401 seconds
+2024-09-27 01:15:57,271 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:57,286 - INFO - Received response from DNS server: 30 bytes in 0.1410 seconds
+2024-09-27 01:15:57,286 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:57,343 - INFO - Received response from DNS server: 30 bytes in 0.1422 seconds
+2024-09-27 01:15:57,344 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:57,440 - INFO - Received response from DNS server: 39 bytes in 0.1504 seconds
+2024-09-27 01:15:57,440 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:57,516 - INFO - Received response from DNS server: 12 bytes in 0.1401 seconds
+2024-09-27 01:15:57,517 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:57,531 - INFO - Received response from DNS server: 30 bytes in 0.1401 seconds
+2024-09-27 01:15:57,532 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:57,587 - INFO - Received response from DNS server: 30 bytes in 0.1420 seconds
+2024-09-27 01:15:57,587 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:57,689 - INFO - Received response from DNS server: 39 bytes in 0.1457 seconds
+2024-09-27 01:15:57,690 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:57,761 - INFO - Received response from DNS server: 12 bytes in 0.1385 seconds
+2024-09-27 01:15:57,761 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:57,779 - INFO - Received response from DNS server: 30 bytes in 0.1414 seconds
+2024-09-27 01:15:57,780 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:57,787 - ERROR - No response from DNS server
+2024-09-27 01:15:57,839 - INFO - Received response from DNS server: 30 bytes in 0.1468 seconds
+2024-09-27 01:15:57,839 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:57,944 - INFO - Received response from DNS server: 39 bytes in 0.1486 seconds
+2024-09-27 01:15:57,944 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:58,006 - INFO - Received response from DNS server: 12 bytes in 0.1387 seconds
+2024-09-27 01:15:58,006 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:58,025 - INFO - Received response from DNS server: 30 bytes in 0.1395 seconds
+2024-09-27 01:15:58,025 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:58,080 - INFO - Received response from DNS server: 30 bytes in 0.1402 seconds
+2024-09-27 01:15:58,080 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:58,189 - INFO - Received response from DNS server: 39 bytes in 0.1401 seconds
+2024-09-27 01:15:58,189 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:58,252 - INFO - Received response from DNS server: 12 bytes in 0.1407 seconds
+2024-09-27 01:15:58,252 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:58,265 - INFO - Received response from DNS server: 30 bytes in 0.1384 seconds
+2024-09-27 01:15:58,265 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:58,325 - INFO - Received response from DNS server: 30 bytes in 0.1414 seconds
+2024-09-27 01:15:58,325 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:58,441 - INFO - Received response from DNS server: 39 bytes in 0.1460 seconds
+2024-09-27 01:15:58,441 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:58,495 - INFO - Received response from DNS server: 12 bytes in 0.1414 seconds
+2024-09-27 01:15:58,495 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:58,507 - INFO - Received response from DNS server: 30 bytes in 0.1385 seconds
+2024-09-27 01:15:58,507 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:58,573 - INFO - Received response from DNS server: 30 bytes in 0.1427 seconds
+2024-09-27 01:15:58,574 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:58,694 - INFO - Received response from DNS server: 39 bytes in 0.1481 seconds
+2024-09-27 01:15:58,695 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:58,740 - INFO - Received response from DNS server: 12 bytes in 0.1404 seconds
+2024-09-27 01:15:58,741 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:58,749 - INFO - Received response from DNS server: 30 bytes in 0.1386 seconds
+2024-09-27 01:15:58,749 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:58,820 - INFO - Received response from DNS server: 30 bytes in 0.1426 seconds
+2024-09-27 01:15:58,820 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:58,942 - INFO - Received response from DNS server: 39 bytes in 0.1453 seconds
+2024-09-27 01:15:58,942 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:58,984 - INFO - Received response from DNS server: 12 bytes in 0.1402 seconds
+2024-09-27 01:15:58,984 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:58,991 - INFO - Received response from DNS server: 30 bytes in 0.1402 seconds
+2024-09-27 01:15:58,992 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:59,062 - INFO - Received response from DNS server: 30 bytes in 0.1403 seconds
+2024-09-27 01:15:59,062 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:59,195 - INFO - Received response from DNS server: 39 bytes in 0.1454 seconds
+2024-09-27 01:15:59,195 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:59,228 - INFO - Received response from DNS server: 12 bytes in 0.1402 seconds
+2024-09-27 01:15:59,228 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:59,235 - INFO - Received response from DNS server: 30 bytes in 0.1381 seconds
+2024-09-27 01:15:59,235 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:59,308 - INFO - Received response from DNS server: 30 bytes in 0.1401 seconds
+2024-09-27 01:15:59,308 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:59,450 - INFO - Received response from DNS server: 39 bytes in 0.1493 seconds
+2024-09-27 01:15:59,451 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:59,469 - INFO - Received response from DNS server: 12 bytes in 0.1392 seconds
+2024-09-27 01:15:59,469 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:59,479 - INFO - Received response from DNS server: 30 bytes in 0.1405 seconds
+2024-09-27 01:15:59,479 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:59,555 - INFO - Received response from DNS server: 30 bytes in 0.1415 seconds
+2024-09-27 01:15:59,556 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:59,702 - INFO - Received response from DNS server: 39 bytes in 0.1460 seconds
+2024-09-27 01:15:59,702 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:59,709 - INFO - Received response from DNS server: 12 bytes in 0.1383 seconds
+2024-09-27 01:15:59,709 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:59,722 - INFO - Received response from DNS server: 30 bytes in 0.1392 seconds
+2024-09-27 01:15:59,722 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:59,799 - INFO - Received response from DNS server: 30 bytes in 0.1416 seconds
+2024-09-27 01:15:59,800 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:59,954 - INFO - Received response from DNS server: 12 bytes in 0.1433 seconds
+2024-09-27 01:15:59,954 - INFO - Received response from DNS server: 39 bytes in 0.1457 seconds
+2024-09-27 01:15:59,954 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:59,954 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:15:59,973 - INFO - Received response from DNS server: 30 bytes in 0.1449 seconds
+2024-09-27 01:15:59,973 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:00,045 - INFO - Received response from DNS server: 30 bytes in 0.1412 seconds
+2024-09-27 01:16:00,045 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:00,194 - INFO - Received response from DNS server: 12 bytes in 0.1395 seconds
+2024-09-27 01:16:00,194 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:00,203 - INFO - Received response from DNS server: 39 bytes in 0.1445 seconds
+2024-09-27 01:16:00,203 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:00,217 - INFO - Received response from DNS server: 30 bytes in 0.1388 seconds
+2024-09-27 01:16:00,217 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:00,289 - INFO - Received response from DNS server: 30 bytes in 0.1412 seconds
+2024-09-27 01:16:00,290 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:00,436 - INFO - Received response from DNS server: 12 bytes in 0.1394 seconds
+2024-09-27 01:16:00,436 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:00,455 - INFO - Received response from DNS server: 39 bytes in 0.1472 seconds
+2024-09-27 01:16:00,455 - INFO - Received response from DNS server: 30 bytes in 0.1351 seconds
+2024-09-27 01:16:00,455 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:00,455 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:00,535 - INFO - Received response from DNS server: 30 bytes in 0.1397 seconds
+2024-09-27 01:16:00,535 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:00,680 - INFO - Received response from DNS server: 12 bytes in 0.1412 seconds
+2024-09-27 01:16:00,680 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:00,697 - INFO - Received response from DNS server: 30 bytes in 0.1394 seconds
+2024-09-27 01:16:00,697 - INFO - Received response from DNS server: 39 bytes in 0.1390 seconds
+2024-09-27 01:16:00,697 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:00,697 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:00,781 - INFO - Received response from DNS server: 30 bytes in 0.1411 seconds
+2024-09-27 01:16:00,782 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:00,898 - ERROR - No response from DNS server
+2024-09-27 01:16:00,929 - INFO - Received response from DNS server: 12 bytes in 0.1436 seconds
+2024-09-27 01:16:00,929 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:00,941 - INFO - Received response from DNS server: 30 bytes in 0.1389 seconds
+2024-09-27 01:16:00,942 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:00,951 - INFO - Received response from DNS server: 39 bytes in 0.1485 seconds
+2024-09-27 01:16:00,951 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:01,028 - INFO - Received response from DNS server: 30 bytes in 0.1426 seconds
+2024-09-27 01:16:01,028 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:01,174 - INFO - Received response from DNS server: 12 bytes in 0.1419 seconds
+2024-09-27 01:16:01,175 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:01,185 - INFO - Received response from DNS server: 30 bytes in 0.1397 seconds
+2024-09-27 01:16:01,185 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:01,199 - INFO - Received response from DNS server: 39 bytes in 0.1448 seconds
+2024-09-27 01:16:01,200 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:01,273 - INFO - Received response from DNS server: 30 bytes in 0.1396 seconds
+2024-09-27 01:16:01,274 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:01,420 - INFO - Received response from DNS server: 12 bytes in 0.1409 seconds
+2024-09-27 01:16:01,422 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:01,427 - INFO - Received response from DNS server: 30 bytes in 0.1385 seconds
+2024-09-27 01:16:01,427 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:01,454 - INFO - Received response from DNS server: 39 bytes in 0.1484 seconds
+2024-09-27 01:16:01,454 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:01,522 - INFO - Received response from DNS server: 30 bytes in 0.1428 seconds
+2024-09-27 01:16:01,522 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:01,668 - INFO - Received response from DNS server: 12 bytes in 0.1424 seconds
+2024-09-27 01:16:01,669 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:01,672 - INFO - Received response from DNS server: 30 bytes in 0.1413 seconds
+2024-09-27 01:16:01,673 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:01,705 - INFO - Received response from DNS server: 39 bytes in 0.1453 seconds
+2024-09-27 01:16:01,706 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:01,768 - INFO - Received response from DNS server: 30 bytes in 0.1430 seconds
+2024-09-27 01:16:01,768 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:01,914 - INFO - Received response from DNS server: 12 bytes in 0.1431 seconds
+2024-09-27 01:16:01,915 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:01,919 - INFO - Received response from DNS server: 30 bytes in 0.1449 seconds
+2024-09-27 01:16:01,920 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:01,957 - INFO - Received response from DNS server: 39 bytes in 0.1460 seconds
+2024-09-27 01:16:01,958 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:02,013 - INFO - Received response from DNS server: 30 bytes in 0.1411 seconds
+2024-09-27 01:16:02,014 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:02,160 - INFO - Received response from DNS server: 12 bytes in 0.1401 seconds
+2024-09-27 01:16:02,160 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:02,165 - INFO - Received response from DNS server: 30 bytes in 0.1450 seconds
+2024-09-27 01:16:02,166 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:02,205 - INFO - Received response from DNS server: 39 bytes in 0.1436 seconds
+2024-09-27 01:16:02,205 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:02,260 - INFO - Received response from DNS server: 30 bytes in 0.1418 seconds
+2024-09-27 01:16:02,261 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:02,407 - INFO - Received response from DNS server: 12 bytes in 0.1428 seconds
+2024-09-27 01:16:02,407 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:02,411 - INFO - Received response from DNS server: 30 bytes in 0.1394 seconds
+2024-09-27 01:16:02,411 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:02,452 - INFO - Received response from DNS server: 39 bytes in 0.1456 seconds
+2024-09-27 01:16:02,452 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:02,506 - INFO - Received response from DNS server: 30 bytes in 0.1402 seconds
+2024-09-27 01:16:02,507 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:02,651 - INFO - Received response from DNS server: 12 bytes in 0.1393 seconds
+2024-09-27 01:16:02,651 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:02,657 - INFO - Received response from DNS server: 30 bytes in 0.1436 seconds
+2024-09-27 01:16:02,657 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:02,702 - INFO - Received response from DNS server: 39 bytes in 0.1438 seconds
+2024-09-27 01:16:02,702 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:02,752 - INFO - Received response from DNS server: 30 bytes in 0.1398 seconds
+2024-09-27 01:16:02,752 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:02,899 - INFO - Received response from DNS server: 12 bytes in 0.1429 seconds
+2024-09-27 01:16:02,899 - INFO - Received response from DNS server: 30 bytes in 0.1407 seconds
+2024-09-27 01:16:02,900 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:02,900 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:02,955 - INFO - Received response from DNS server: 39 bytes in 0.1473 seconds
+2024-09-27 01:16:02,956 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:02,999 - INFO - Received response from DNS server: 30 bytes in 0.1411 seconds
+2024-09-27 01:16:03,000 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:03,146 - INFO - Received response from DNS server: 12 bytes in 0.1407 seconds
+2024-09-27 01:16:03,146 - INFO - Received response from DNS server: 30 bytes in 0.1409 seconds
+2024-09-27 01:16:03,146 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:03,147 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:03,205 - INFO - Received response from DNS server: 39 bytes in 0.1454 seconds
+2024-09-27 01:16:03,206 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:03,247 - INFO - Received response from DNS server: 30 bytes in 0.1430 seconds
+2024-09-27 01:16:03,248 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:03,394 - INFO - Received response from DNS server: 12 bytes in 0.1464 seconds
+2024-09-27 01:16:03,395 - INFO - Received response from DNS server: 30 bytes in 0.1427 seconds
+2024-09-27 01:16:03,395 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:03,395 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:03,457 - INFO - Received response from DNS server: 39 bytes in 0.1452 seconds
+2024-09-27 01:16:03,457 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:03,495 - INFO - Received response from DNS server: 30 bytes in 0.1413 seconds
+2024-09-27 01:16:03,495 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:03,636 - INFO - Received response from DNS server: 30 bytes in 0.1404 seconds
+2024-09-27 01:16:03,637 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:03,641 - INFO - Received response from DNS server: 12 bytes in 0.1413 seconds
+2024-09-27 01:16:03,641 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:03,708 - INFO - Received response from DNS server: 39 bytes in 0.1490 seconds
+2024-09-27 01:16:03,710 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:03,737 - INFO - Received response from DNS server: 30 bytes in 0.1405 seconds
+2024-09-27 01:16:03,737 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:03,884 - INFO - Received response from DNS server: 30 bytes in 0.1470 seconds
+2024-09-27 01:16:03,885 - INFO - Received response from DNS server: 12 bytes in 0.1394 seconds
+2024-09-27 01:16:03,885 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:03,885 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:03,962 - INFO - Received response from DNS server: 39 bytes in 0.1463 seconds
+2024-09-27 01:16:03,962 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:03,987 - INFO - Received response from DNS server: 30 bytes in 0.1444 seconds
+2024-09-27 01:16:03,988 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:04,008 - ERROR - No response from DNS server
+2024-09-27 01:16:04,127 - INFO - Received response from DNS server: 30 bytes in 0.1406 seconds
+2024-09-27 01:16:04,127 - INFO - Received response from DNS server: 12 bytes in 0.1365 seconds
+2024-09-27 01:16:04,127 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:04,127 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:04,209 - INFO - Received response from DNS server: 39 bytes in 0.1446 seconds
+2024-09-27 01:16:04,209 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:04,235 - INFO - Received response from DNS server: 30 bytes in 0.1424 seconds
+2024-09-27 01:16:04,235 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:04,371 - INFO - Received response from DNS server: 12 bytes in 0.1383 seconds
+2024-09-27 01:16:04,371 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:04,376 - INFO - Received response from DNS server: 30 bytes in 0.1442 seconds
+2024-09-27 01:16:04,377 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:04,458 - INFO - Received response from DNS server: 39 bytes in 0.1459 seconds
+2024-09-27 01:16:04,459 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:04,479 - INFO - Received response from DNS server: 30 bytes in 0.1383 seconds
+2024-09-27 01:16:04,479 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:04,618 - INFO - Received response from DNS server: 12 bytes in 0.1422 seconds
+2024-09-27 01:16:04,619 - INFO - Received response from DNS server: 30 bytes in 0.1361 seconds
+2024-09-27 01:16:04,619 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:04,619 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:04,705 - INFO - Received response from DNS server: 39 bytes in 0.1449 seconds
+2024-09-27 01:16:04,706 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:04,724 - INFO - Received response from DNS server: 30 bytes in 0.1414 seconds
+2024-09-27 01:16:04,724 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:04,860 - INFO - Received response from DNS server: 30 bytes in 0.1407 seconds
+2024-09-27 01:16:04,861 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:04,864 - INFO - Received response from DNS server: 12 bytes in 0.1407 seconds
+2024-09-27 01:16:04,865 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:04,958 - INFO - Received response from DNS server: 39 bytes in 0.1467 seconds
+2024-09-27 01:16:04,969 - INFO - Received response from DNS server: 30 bytes in 0.1393 seconds
+2024-09-27 01:16:04,970 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:04,970 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:05,102 - INFO - Received response from DNS server: 30 bytes in 0.1391 seconds
+2024-09-27 01:16:05,102 - INFO - Received response from DNS server: 12 bytes in 0.1373 seconds
+2024-09-27 01:16:05,103 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:05,103 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:05,215 - INFO - Received response from DNS server: 30 bytes in 0.1421 seconds
+2024-09-27 01:16:05,215 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:05,226 - INFO - Received response from DNS server: 39 bytes in 0.1530 seconds
+2024-09-27 01:16:05,227 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:05,347 - INFO - Received response from DNS server: 30 bytes in 0.1405 seconds
+2024-09-27 01:16:05,348 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:05,354 - INFO - Received response from DNS server: 12 bytes in 0.1463 seconds
+2024-09-27 01:16:05,354 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:05,459 - INFO - Received response from DNS server: 30 bytes in 0.1384 seconds
+2024-09-27 01:16:05,459 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:05,478 - INFO - Received response from DNS server: 39 bytes in 0.1458 seconds
+2024-09-27 01:16:05,478 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:05,595 - INFO - Received response from DNS server: 30 bytes in 0.1409 seconds
+2024-09-27 01:16:05,595 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:05,595 - INFO - Received response from DNS server: 12 bytes in 0.1392 seconds
+2024-09-27 01:16:05,596 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:05,706 - INFO - Received response from DNS server: 30 bytes in 0.1413 seconds
+2024-09-27 01:16:05,707 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:05,727 - INFO - Received response from DNS server: 39 bytes in 0.1466 seconds
+2024-09-27 01:16:05,728 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:05,838 - INFO - Received response from DNS server: 12 bytes in 0.1407 seconds
+2024-09-27 01:16:05,838 - INFO - Received response from DNS server: 30 bytes in 0.1408 seconds
+2024-09-27 01:16:05,838 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:05,838 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:05,953 - INFO - Received response from DNS server: 30 bytes in 0.1411 seconds
+2024-09-27 01:16:05,953 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:05,975 - INFO - Received response from DNS server: 39 bytes in 0.1420 seconds
+2024-09-27 01:16:05,975 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:06,084 - INFO - Received response from DNS server: 12 bytes in 0.1403 seconds
+2024-09-27 01:16:06,084 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:06,089 - INFO - Received response from DNS server: 30 bytes in 0.1455 seconds
+2024-09-27 01:16:06,089 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:06,201 - INFO - Received response from DNS server: 30 bytes in 0.1421 seconds
+2024-09-27 01:16:06,201 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:06,225 - INFO - Received response from DNS server: 39 bytes in 0.1440 seconds
+2024-09-27 01:16:06,225 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:06,331 - INFO - Received response from DNS server: 12 bytes in 0.1419 seconds
+2024-09-27 01:16:06,331 - INFO - Received response from DNS server: 30 bytes in 0.1370 seconds
+2024-09-27 01:16:06,331 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:06,332 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:06,449 - INFO - Received response from DNS server: 30 bytes in 0.1424 seconds
+2024-09-27 01:16:06,449 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:06,471 - INFO - Received response from DNS server: 39 bytes in 0.1441 seconds
+2024-09-27 01:16:06,472 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:06,573 - INFO - Received response from DNS server: 30 bytes in 0.1392 seconds
+2024-09-27 01:16:06,573 - INFO - Received response from DNS server: 12 bytes in 0.1390 seconds
+2024-09-27 01:16:06,574 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:06,574 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:06,695 - INFO - Received response from DNS server: 30 bytes in 0.1398 seconds
+2024-09-27 01:16:06,696 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:06,722 - INFO - Received response from DNS server: 39 bytes in 0.1486 seconds
+2024-09-27 01:16:06,722 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:06,813 - INFO - Received response from DNS server: 12 bytes in 0.1378 seconds
+2024-09-27 01:16:06,813 - INFO - Received response from DNS server: 30 bytes in 0.1382 seconds
+2024-09-27 01:16:06,813 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:06,813 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:06,943 - INFO - Received response from DNS server: 30 bytes in 0.1439 seconds
+2024-09-27 01:16:06,943 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:06,972 - INFO - Received response from DNS server: 39 bytes in 0.1497 seconds
+2024-09-27 01:16:06,973 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:07,054 - INFO - Received response from DNS server: 30 bytes in 0.1406 seconds
+2024-09-27 01:16:07,055 - INFO - Received response from DNS server: 12 bytes in 0.1404 seconds
+2024-09-27 01:16:07,055 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:07,055 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:07,116 - ERROR - No response from DNS server
+2024-09-27 01:16:07,186 - INFO - Received response from DNS server: 30 bytes in 0.1394 seconds
+2024-09-27 01:16:07,186 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:07,222 - INFO - Received response from DNS server: 39 bytes in 0.1478 seconds
+2024-09-27 01:16:07,223 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:07,302 - INFO - Received response from DNS server: 12 bytes in 0.1409 seconds
+2024-09-27 01:16:07,303 - INFO - Received response from DNS server: 30 bytes in 0.1417 seconds
+2024-09-27 01:16:07,303 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:07,303 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:07,415 - INFO - Process interrupted by user.
+2024-09-27 01:16:07,429 - INFO - Received response from DNS server: 30 bytes in 0.1416 seconds
+2024-09-27 01:16:07,429 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:07,472 - INFO - Received response from DNS server: 39 bytes in 0.1476 seconds
+2024-09-27 01:16:07,472 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:07,548 - INFO - Received response from DNS server: 30 bytes in 0.1404 seconds
+2024-09-27 01:16:07,548 - INFO - Received response from DNS server: 12 bytes in 0.1403 seconds
+2024-09-27 01:16:07,548 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:07,548 - INFO - Sent amplified response to target: 186.249.231.34
+2024-09-27 01:16:08,227 - INFO - Program terminated.
