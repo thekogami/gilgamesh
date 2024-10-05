@@ -128,7 +128,7 @@ def is_valid_ip(ip):
 
 if __name__ == "__main__":
     if os.geteuid() != 0:
-        print("Este script deve ser executado como root.")
+        print("This script must be run as root.")
         exit()
 
     logging.basicConfig(level=logging.INFO, filename='dns.log', filemode='a', format='%(asctime)s - %(levelname)s - %(message)s')
