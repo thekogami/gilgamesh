@@ -1,6 +1,3 @@
-Aqui está o conteúdo formatado em **Markdown** para o seu README:
-
-```markdown
 # DNS Amplification Script
 
 This script creates and sends spoofed DNS queries to DNS servers, aiming to amplify requests to a target IP address. It is intended for **educational purposes and network diagnostics**.
