@@ -130,4 +130,3 @@ For any questions or concerns, please open an **issue** in the repository.
 ## ⚠️ Disclaimer
 
 This script is intended for **educational purposes only**. The author is **not responsible** for any misuse of this script.
-```
