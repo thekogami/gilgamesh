@@ -25,8 +25,8 @@ This script creates and sends spoofed DNS queries to DNS servers, aiming to ampl
 
 1. **Clone the repository or download the script**:
    ```bash
-   git clone <REPOSITORY_URL>
-   cd <REPOSITORY_FOLDER>
+   git clone https://github.com/thekogami/gilgamesh.git
+   cd gilgamesh
    ```
 
 2. **Ensure you have Python 3.x installed** on your machine.
